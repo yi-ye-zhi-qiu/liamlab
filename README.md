@@ -1,5 +1,3 @@
-# LiamLab: where ideas happen
-
 ![](logo.png)
 
 ----
