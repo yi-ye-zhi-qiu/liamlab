@@ -1,10 +1,10 @@
-![](logo.png)
+![](liamslablogo.png)
 
 ----
 
 ## Current Projects
 
-- 00: DS/SQL Course
+- DS/SQL Course
 
 ----
 
@@ -14,8 +14,6 @@
 - 01: Jacob
 - 02: Timmy
 - 03: Michael
-- 04: Hao Bai
-- 05: Jung-min
 
 ----
 
