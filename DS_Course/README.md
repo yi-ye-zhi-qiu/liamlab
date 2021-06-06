@@ -1,7 +1,7 @@
-# LiamLab: where ideas happen
+# DS Course
 
 ----
-# Course Syllabus
+## Course Syllabus
 - Meets: Saturdays, 10AM - 12PM
 - See syllabus.pdf (updated weekly)
 
