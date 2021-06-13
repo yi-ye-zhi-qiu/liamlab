@@ -15,4 +15,4 @@
 
 ----
 ## Students
-Hao-Bai, Jung-min, Ji-yeon, Hu Yang
+Hao-Bai, Jung-min, Ji-yeon
