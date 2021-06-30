@@ -1,5 +1,7 @@
 # DS Course
 
+No class on Jun 26!!
+
 ----
 ## Course Syllabus
 - Lecture: Saturdays, 10AM - 12PM
