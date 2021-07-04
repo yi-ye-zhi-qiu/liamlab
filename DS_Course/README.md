@@ -4,7 +4,7 @@ No class on Jun 26!!
 
 ----
 ## Course Syllabus
-- Lecture: Saturdays, 10AM - 12PM
+- Lecture: Saturdays, 10AM - 1PM
 - Homeworks: weekly
 - Office hours: Tuesdays, 8 - 9 PM
 
