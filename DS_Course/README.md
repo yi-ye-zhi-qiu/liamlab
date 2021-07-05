@@ -1,4 +1,4 @@
-# `liamlab`
+# `liamlab` data science in python
 
 - **Instructors**: Liam, liamnisaacs@gmail.com
 - **Lecture**: Sat., 10AM-2PM 
@@ -109,4 +109,4 @@ Jul 3, 2021
 ----
 ## Students
 
-`students = ['Hao Bai', 'Ji yeon', 'Jung min', 'Hu Yang', 'Eric']
+`students = ['Hao Bai', 'Ji yeon', 'Jung min', 'Hu Yang', 'Eric']`
