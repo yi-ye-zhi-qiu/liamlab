@@ -25,7 +25,7 @@ In programming, though, I think we diverge a little bit from language, and end u
 
 ### Preface 
 
-05/28
+`05/28`
 
 - ETL Diagram
   - Learn definition and relationship of: “raw data, data ingestion pipeline, preprocessing, cleaning, back-end database, query, algorithm, machine learning, hard-coded, front-end, UI/UX design,extract (E), transform (T), load (L), full-stack, cloud, Big Data”
@@ -105,6 +105,7 @@ In programming, though, I think we diverge a little bit from language, and end u
 | `demo.ipynb` | `06/12` |
 | `0612/Notes` active solves + HW | `06/17` |
 | `0619/Notes` active solves + HW | `07/01` |
+| `0703/Notes` active solves + HW | `07/08` |
 
 ----
 ## Students
