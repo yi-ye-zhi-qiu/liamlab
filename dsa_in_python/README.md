@@ -4,8 +4,8 @@
 
 ```
 - Instructors: Liam, liamnisaacs@gmail.com
-- Lecture: Thurs, 8-9 PM
-- Office Hours: Tues, 8-9 PM
+- Lecture: Thurs, 7-8 PM
+- Office Hours: Thurs, 8-9 PM
 - Homework: Weekly, due Weds 8 PM
 - Text: Data Structures and Algorithms in Python, Goodrich, Tamassia, Goldwasser (2013)
 ```
@@ -49,4 +49,4 @@ The course expects a good background in Python. As a benchmark, I'd say a solid 
 ----
 ## Students
 
-`students = ['Hao Bai', 'Hu Yang', 'Eric']`
+`students = ['Hao Bai', 'Hu Yang', 'Eric', 'Ji', 'Jungmin']`
