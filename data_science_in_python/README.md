@@ -2,7 +2,7 @@
 
 - **Instructors**: Liam, liamnisaacs@gmail.com
 - **Lecture**: Sat., 10AM-2PM 
-- **Office Hours**: Tues, 8-9PM 
+- **Office Hours**: Thurs, 8-9PM 
 - **Homework**: weekly, due Thurs 12:00 AM
 
 ---- 
