@@ -63,7 +63,7 @@ def h(target: list, n: int) -> list:
 def o(nums1: list, nums2: list) -> list:
 
     l = []
-    '''
+
     for i in range(len(nums1)):
 
         val = nums1[i]
@@ -81,14 +81,7 @@ def o(nums1: list, nums2: list) -> list:
 
         if m == val:
             l.append(-1)
-
-    '''
-    k = nums1
-    for i in range(len(nums2)):
-        if nums2[i] in k:
-            slice = max(nums2[i:])
-            if slice > i
-
+            
     print(l)
     return l
 
